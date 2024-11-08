@@ -1,4 +1,5 @@
 # AWS EKS Terraform module
+# By Mudassir Alam
 
 Terraform module which creates Amazon EKS (Kubernetes) resources
 
